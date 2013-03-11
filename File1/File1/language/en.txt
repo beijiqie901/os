@@ -1,0 +1,23 @@
+main.hello=Welcome to Lius File System
+main.exit=System closed, press any key to exit.
+
+item.filename=name
+item.page=page
+item.inode=inode
+item.length=length
+item.first=first
+item.time=time
+item.type=type
+
+warning.nowriteall= Not enough space, only write part of string to the file
+error.nospace   =   No enough space
+error.samename=Can't create file with the same name
+error.nocd=Can't enter file 
+error.noread=Directory can't be read 
+error.nowrite=Directory can't be written
+error.nofile=File not exist
+error.nocommand=   No such command      
+error.noinstance=Please format file system or open a file  
+error.file.failopen= Open file fail
+error.file.failformat= Format file fail
+error.file.number= Please enter a number to format file system

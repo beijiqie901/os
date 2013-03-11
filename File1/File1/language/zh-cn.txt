@@ -1,0 +1,25 @@
+
+ main.hello=欢迎使用Lius文件系统
+main.exit=文件系统已退出，按任意键结束
+
+
+item.filename=文件名
+item.page=页码
+item.inode=i节点
+item.length=长度
+item.first=首页
+item.time=时间
+item.type=类型
+
+warning.nowriteall=由于没有足够的空间，仅写入了部分字符串到文件
+error.nospace   =   没有足够的磁盘空间   
+error.samename=新建文件同名
+error.nocd=不能进入非目录文件
+error.noread=目录不能执行读操作
+error.nowrite=目录不能执行写操作
+error.nofile=文件不存在
+error.nocommand=   命令不存在   
+error.noinstance= 请格式化磁盘或打开已经存在的文件 
+error.file.failopen=打开文件失败
+error.file.failformat=格式化失败   
+error.file.number= 请输入阿拉伯数字字符进行格式化 
